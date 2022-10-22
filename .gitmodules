@@ -1,0 +1,21 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/marked-d/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/marked-d/_quotes
+[submodule "images"]
+	path = images
+	url = https://github.com/marked-d/images
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/marked-d/bibliography
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/marked-d/notes
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/marked-d/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/marked-d/text

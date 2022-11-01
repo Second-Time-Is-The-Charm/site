@@ -19,5 +19,4 @@ slides:
   - squeakos
   - sugar-neighborhood
   - amigaos
-  - vision
 ---

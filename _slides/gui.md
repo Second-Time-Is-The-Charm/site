@@ -19,4 +19,5 @@ slides:
   - squeakos
   - sugar-neighborhood
   - deskmate
+  - risc-os
 ---

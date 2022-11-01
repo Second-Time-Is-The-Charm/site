@@ -7,6 +7,6 @@ events:
   - eliza-chat-bot 
   - predictive-text
   - knowledge-navigator
-  - microsoft-mouse
+  - hp-newwave
 ---
 

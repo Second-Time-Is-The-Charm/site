@@ -16,6 +16,5 @@ events:
   - windows95
   - winamp
   - hp-newwave
-  - microsoft-mouse
 ---
 

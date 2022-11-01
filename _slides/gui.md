@@ -18,5 +18,4 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
-  - hp-newwave
 ---

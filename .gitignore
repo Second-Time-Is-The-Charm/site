@@ -16,6 +16,3 @@ Gemfile.lock
 ehthumbs.db
 Thumbs.db
 
-# Modules #
-###########
-.gitmodules

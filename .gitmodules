@@ -7,15 +7,16 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/Second-Time-Is-The-Charm/images
-[submodule "_bibliography"]
-	path = _bibliography
-	url = https://github.com/Second-Time-Is-The-Charm/bibliography
-[submodule "_notes"]
-	path = _notes
-	url = https://github.com/Second-Time-Is-The-Charm/notes
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/Second-Time-Is-The-Charm/extras
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/Second-Time-Is-The-Charm/text
+
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/Second-Time-Is-The-Charm/bibliography
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/Second-Time-Is-The-Charm/notes

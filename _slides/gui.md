@@ -18,5 +18,9 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+<<<<<<< HEAD
   - deskmate
+=======
+  - hp-newwave
+>>>>>>> refs/remotes/origin/master
 ---

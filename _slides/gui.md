@@ -19,4 +19,5 @@ slides:
   - squeakos
   - sugar-neighborhood
   - amigaos
+  - hp-newwave
 ---

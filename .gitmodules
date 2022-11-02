@@ -13,7 +13,6 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/Second-Time-Is-The-Charm/text
-
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/Second-Time-Is-The-Charm/bibliography

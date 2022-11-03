@@ -18,6 +18,10 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+<<<<<<< HEAD
   - amigaos
+=======
+  - deskmate
+>>>>>>> refs/remotes/origin/master
   - hp-newwave
 ---

@@ -8,5 +8,6 @@ events:
   - ms-dos 
   - risc-os
   - amigaos
+  - suse
   - artix
 ---

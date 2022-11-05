@@ -10,4 +10,5 @@ events:
   - amigaos
   - suse
   - artix
+  - breadbox-ensemble
 ---

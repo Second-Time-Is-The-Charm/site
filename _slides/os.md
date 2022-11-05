@@ -8,5 +8,6 @@ slides:
   - amigaos
   - artix
   - suse
+  - breadbox-ensemble
   - windows_11
 ---

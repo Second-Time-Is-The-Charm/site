@@ -7,6 +7,9 @@
 [submodule "images"]
 	path = images
 	url = https://www.github.com/Second-Time-Is-The-Charm/images
+[submodule "bibliography"]
+	path = bibliography
+	url = https://www.github.com/Second-Time-Is-The-Charm/bibliography
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://www.github.com/Second-Time-Is-The-Charm/bibliography

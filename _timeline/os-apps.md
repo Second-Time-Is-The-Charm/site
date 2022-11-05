@@ -6,4 +6,8 @@ caption: Τα λειτουργικά συστήματα και οι εφαρμο
 events:
   - cpm 
   - ms-dos 
+  - risc-os
+  - amigaos
+  - suse
+  - artix
 ---

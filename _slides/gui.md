@@ -18,5 +18,7 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - deskmate
   - hp-newwave
+  - breadbox-ensemble
 ---

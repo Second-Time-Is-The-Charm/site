@@ -22,6 +22,8 @@ slides:
   - pebble-hifi
   - reactable-music
   - reactivision-simulator
+  - vision
   - reactable-fountain
+  - microsoft_office_word
 ---
 
